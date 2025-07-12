@@ -1,0 +1,10 @@
+Flask
+numpy
+pandas
+scikit-learn
+matplotlib
+requests
+seaborn
+-e .
+# -e . indicates that the current directory should be treated as a package. setup.py gets triggered.
+# This is useful for local development and testing.
